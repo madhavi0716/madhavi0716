@@ -1,6 +1,6 @@
 # hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Welcome to my Github page! I'm Madhavi, a tech enthusiast dedicated to leveraging technology for real-world problem-solving. I am an undergrad currently in first year. I am currently diving deep into java . 
+I’m Madhavi, a passionate tech enthusiast dedicated to leveraging technology to solve real-world problems. Currently, I’m an undergraduate student in my first year, and I’m diving deep into the world of programming with a strong focus on Java. 
 
 ```python
 skills = {
